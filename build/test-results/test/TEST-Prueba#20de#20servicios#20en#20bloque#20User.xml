@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Prueba de servicios en bloque User" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-04T00:24:27" hostname="DESKTOP-NRLF3B1" time="7.751">
+  <properties/>
+  <testcase name="Creacion, consulta y eliminacion de usuarios" classname="Prueba de servicios en bloque User" time="7.751"/>
+  <system-out><![CDATA[{"code":200,"type":"unknown","message":"ok"}
+{"id":5,"username":"Andres","firstName":"Andres","lastName":"Rodriguez","email":"prueba@test.com","password":"1234","phone":"3203256987","userStatus":0}
+{"code":200,"type":"unknown","message":"Andres"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
